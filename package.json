@@ -1,0 +1,23 @@
+{
+  "name": "micro-root",
+  "version": "1.0.0",
+  "description": "micro-root ",
+  "main": "index.js",
+  "scripts": {
+    "start": "serve -s -l 4200",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/HuaLa6564/mfe-micro-root.git"
+  },
+  "author": "Farah",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/HuaLa6564/mfe-micro-root/issues"
+  },
+  "homepage": "https://github.com/HuaLa6564/mfe-micro-root#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
