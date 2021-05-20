@@ -38,6 +38,9 @@ Remember that this app(micro-root) is a root for all other app (e.g micro-footer
 In order to see the output you need to run other app(e.g micro-footer), by then you can see the result. 
 Root working as connection between all your other app and combine all of it. 
 
+You can check my other app in:
+1. Footer :
+    https://github.com/HuaLa6564/mfe-micro-footer 
 
  
 
